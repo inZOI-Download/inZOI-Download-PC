@@ -1,7 +1,9 @@
 **### inZOI Download PC**
 Welcome to the official repository for inZOI Download PC – your one-stop destination to download and enjoy the enthralling inZOI game on your personal computer!
+
 **About inZOI**
 inZOI is an engaging and immersive game experience that captivates players with its compelling storyline, stunning graphics, and endless possibilities for gameplay. Players can build, explore, and create a unique world that reflects their style and imagination.
+
 **Features**
 
 > Stunning Graphics: Experience the game in high-definition with beautifully designed graphics that bring the world of inZOI to life.
