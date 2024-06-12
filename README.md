@@ -1,4 +1,5 @@
-**### inZOI Download PC**
+### **inZOI Download PC**
+
 Welcome to the official repository for inZOI Download PC – your one-stop destination to download and enjoy the enthralling inZOI game on your personal computer!
 
 **About inZOI**
